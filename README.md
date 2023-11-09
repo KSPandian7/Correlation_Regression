@@ -7,7 +7,7 @@ To analyse given data using coeffificient of correlation and regression line
 
 # Software required :  
 
-Python
+### Python
 
 # Theory:
 
@@ -20,10 +20,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-```python
-DEVELOPED BY : KULASEKARAPANDIAN K
-REGISTER NO : 212222240052
-```
 ```python
 import numpy as np
 import math
@@ -58,22 +54,8 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
+# Output
+![Exp 3](https://github.com/21003698/Correlation_Regression/assets/93427522/b7d1840e-940b-4520-ab4a-667348f111a6)
 
-# Output :
-
-#### Values of X -
-```python
-25 28 35 32 31 36 29 38 34 32
-```
-#### Values of Y -
-```python
-43 46 49 41 36 32 31 30 33 39
-```
-
-![OUTPUT](/op3.png)
-
-
-
-
-# Result :
+# Result 
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
